@@ -9,7 +9,7 @@
 	<!--
 		Page title
 	-->
-		<title>Identity by HTML5 UP</title>
+		<title>Hasnain Ali</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
@@ -26,16 +26,16 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
-							<h1>Jane Doe</h1>
-							<p>Senior Psychonautics Engineer</p>
+							<span class="avatar"><img src="images/headshot hasnain.jpg" alt="" /></span>
+							<h1>Hasnain Ali</h1>
+							<p>Student at Rice University</p>
 						</header>
 						
 						<footer>
 							<ul class="icons">
-								<li><a href="#" class="fa-twitter">Twitter</a></li>
-								<li><a href="#" class="fa-instagram">Instagram</a></li>
-								<li><a href="#" class="fa-facebook">Facebook</a></li>
+								<li><a href="Hasnain Ali Resume 32718.pdf" class="fa-sticky-note">Resume</a></li>
+								<li><a href="https://www.linkedin.com/in/hasnain-ali/" class="fa-linkedin">LinkedIn</a></li>
+								<li><a href="https://www.facebook.com/hasnainaali" class="fa-facebook">Facebook</a></li>
 							</ul>
 						</footer>
 					</section>
@@ -43,7 +43,7 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
-							<li>&copy; Jane Doe</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; Hasnain Ali</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</footer>
 
